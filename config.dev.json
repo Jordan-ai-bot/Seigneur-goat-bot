@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "seigneurzerofouku329@gmail.com",
-    "password": "05871783aziz",
+    "email": "empereurjordan48@gmail.com",
+    "password": "goatbot x...1",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557432132039",
+    "100088171557555",
     ""
   ],
   "whiteListMode": {
@@ -25,8 +25,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Seigneur ZÉRO fouku (Dziguen)",
-  "prefix": "+",
+  "nickNameBot": "Jordan bot",
+  "prefix":*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
